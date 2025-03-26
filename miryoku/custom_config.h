@@ -16,7 +16,7 @@ U_LT(U_BUTTON, Q), U_MT(RALT, X),     &kp M,             &kp C,             &kp 
 U_NP,              U_NP,              U_LT(U_MEDIA, ESC),U_LT(U_NAV, SPACE),U_LT(U_MOUSE, TAB),U_LT(U_SYM, RET),  U_LT(U_NUM, BSPC), U_LT(U_FUN, DEL),  U_NP,              U_NP
 
 // TODO: Add the following two as the extra layer and the new layer that can be reached from there
-
+/*
 #define MIRYOKU_LAYER_GAME \
 &kp TAB,           &kp Q,             &kp W,             &kp E,             &kp R,             U_NA,              U_NA,              U_NA,              U_NA,              U_NA,            \
 &kp LSHFT,         &kp A,             &kp S,             &kp D,             &kp F,             U_NA,              U_NA,              U_NA,              U_NA,              U_NA,            \
@@ -28,7 +28,7 @@ U_NP,              U_NP,              &kp ESC,         U_LT(U_VTWO, V), &kp SPAC
 &kp LSHFT,         &kp A,             &kp S,             &kp D,             &kp F,             U_NA,              U_NA,              U_NA,              U_NA,              U_NA,            \
 &kp LCTRL,         &kp Z,             &kp X,             &kp C,             U_MT(N4, B),       U_NA,              U_NA,              U_NA,              U_NA,              U_NA,            \
 U_NP,              U_NP,              &kp ESC,         U_LT(U_VTWO, V), &kp SPACE,         U_NA,              U_NA,              U_NA,              U_NP,              U_NP 
-
+*/
 
 // Layers used
 
